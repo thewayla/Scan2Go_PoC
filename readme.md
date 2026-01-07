@@ -1,4 +1,4 @@
-# Sevan Scan-to-Order (Android PoC)
+# Scan-to-Order (Android PoC)
 
 A native Android Proof-of-Concept streamlining B2B inventory management via on-device barcode scanning.
 
