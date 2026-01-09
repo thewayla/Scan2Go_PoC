@@ -2,6 +2,8 @@
 
 A native Android Proof-of-Concept streamlining B2B inventory management via on-device barcode scanning.
 
+<a href="https://youtube.com/shorts/-f4jlpWfxGo?feature=share" target="_blank">Video demo</a>
+
 ## 📱 Project Overview
 Designed for field sales reps and store managers to "walk the floor" and restock inventory instantly. By leveraging the physical product barcode as the interface, it eliminates the need to memorize article numbers or navigate complex catalogs.
 
